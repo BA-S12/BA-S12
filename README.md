@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bassam Alharbi 👋</h1>
 <p align="center">
-  🧠 Backend Developer | 🚀 Spring Boot & React Enthusiast | 🇸🇦 From Saudi Arabia
+  🧠Full Stack Developer | 🚀 Backend-focused | 🇸🇦 From Saudi Arabia
 </p>
 
 ---
@@ -29,19 +29,7 @@
 
 ---
 
-### 💼 Current Projects
 
-- 🔥 AI-integrated full-stack app with Next.js and Spring Boot
-- 📱 Realtime dashboard using WebSockets & Firebase
-- 📚 Building smart APIs with Express, Hono, and Bun
 
----
+  
 
-### 🌱 Learning Focus
-
-```mermaid
-graph TD
-  A[Strong Backend] --> B[Spring Boot + Firebase]
-  B --> C[GraphQL & WebSockets]
-  C --> D[Next.js & Tailwind CSS]
-  D --> E[AI & Data Analysis]
