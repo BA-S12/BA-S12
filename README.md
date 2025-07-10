@@ -8,14 +8,40 @@
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="/skills-Img/Bun.png" alt="Bun" height="40"/>
+  <img src="/skills-Img/CSS3.png" alt="CSS3" height="40"/>
+  <img src="/skills-Img/Express.png" alt="Express" height="40"/>
+  <img src="/skills-Img/hono (1).png" alt="Hono" height="40"/>
+  <img src="/skills-Img/HTML5.png" alt="HTML5" height="40"/>
+  <img src="/skills-Img/Java.png" alt="Java" height="40"/>
+  <img src="/skills-Img/JavaScript.png" alt="JavaScript" height="40"/>
+  <img src="/skills-Img/Matplotlib.png" alt="Matplotlib" height="40"/>
+  <img src="/skills-Img/MongoDB.png" alt="MongoDB" height="40"/>
+  <img src="/skills-Img/MySQL.png" alt="MySQL" height="40"/>
+  <img src="/skills-Img/Next.js.png" alt="Next.js" height="40"/>
+  <img src="/skills-Img/Node.js.png" alt="Node.js" height="40"/>
+  <img src="/skills-Img/Pandas.png" alt="Pandas" height="40"/>
+  <img src="/skills-Img/Python.png" alt="Python" height="40"/>
+  <img src="/skills-Img/React.png" alt="React" height="40"/>
+  <img src="/skills-Img/Spring Boot.png" alt="Spring Boot" height="40"/>
+  <img src="/skills-Img/Tailwind CSS.png" alt="Tailwind CSS" height="40"/>
 </p>
 
 ---
 
-### 📊 Skill Level (Gamified Style)
+### 💼 Current Projects
 
+- 🔥 AI-integrated full-stack app with Next.js and Spring Boot
+- 📱 Realtime dashboard using WebSockets & Firebase
+- 📚 Building smart APIs with Express, Hono, and Bun
+
+---
+
+### 🌱 Learning Focus
+
+```mermaid
+graph TD
+  A[Strong Backend] --> B[Spring Boot + Firebase]
+  B --> C[GraphQL & WebSockets]
+  C --> D[Next.js & Tailwind CSS]
+  D --> E[AI & Data Analysis]
