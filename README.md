@@ -32,7 +32,7 @@
 
 ### 🌟 About Me
 
-- 🎓 I'm a 5th-year Computer Science student
+- 🎓 I'm a 4th-year Computer Science student
 - 🧪 Passionate about web development and AI integration
 - 🔍 Currently exploring advanced backend architectures
 - ✨ Ranked 6th on CodrHub (KSA)
@@ -41,13 +41,15 @@
 
 ### 📫 Contact Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **Email**: [your-email@example.com](mailto:bassmayed@gmail.com)
+
+---
+<!--
+
 - **Website**: [yourwebsite.com](https://yourwebsite.com)  
 - **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 - **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)  
 - **Portfolio**: [Your Portfolio](https://yourwebsite.com)
-
----
 
 ### 📈 GitHub Stats
 
@@ -64,3 +66,4 @@
 ### 🧩 Fun Fact
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+-->
