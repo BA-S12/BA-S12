@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Bassam Alharbi 👋</h1>
+
 <p align="center">
-  🧠Full Stack Developer | 🚀 Backend-focused | 🇸🇦 From Saudi Arabia
+  🧠 Full Stack Developer | 🚀 Backend-focused | 🇸🇦 Based in Saudi Arabia
 </p>
 
 ---
@@ -29,7 +30,37 @@
 
 ---
 
+### 🌟 About Me
 
+- 🎓 I'm a 5th-year Computer Science student
+- 🧪 Passionate about web development and AI integration
+- 🔍 Currently exploring advanced backend architectures
+- ✨ Ranked 6th on CodrHub (KSA)
 
-  
+---
 
+### 📫 Contact Me
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **Website**: [yourwebsite.com](https://yourwebsite.com)  
+- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)  
+- **Portfolio**: [Your Portfolio](https://yourwebsite.com)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Bassam's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=false"/>
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
