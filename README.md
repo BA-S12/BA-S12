@@ -41,7 +41,7 @@
 
 ### 📫 Contact Me
 
-- **Email**: [your-email@example.com](mailto:bassmayed@gmail.com)
+- **Email**: [bassmayed@gmail.com](mailto:bassmayed@gmail.com)
 
 ---
 <!--
