@@ -42,7 +42,7 @@
 ### 📫 Contact Me
 
 - **Email**: [bassmayed@gmail.com](mailto:bassmayed@gmail.com)
-- **Protfile**: https://bassam-protfile-04ad.onrender.com/
+- **Protfile**: <a href="https://bassam-protfile-04ad.onrender.com/" target="_blank">Protfile</a>
 
 ---
 <!--
