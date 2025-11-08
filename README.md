@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bassam Alharbi 👋</h1>
 
 <p align="center">
-  🧠 Full Stack Developer | 🚀 Backend-focused | 🇸🇦 Based in Saudi Arabia
+  🧠 Full Stack Developer | 🚀 Backend-focused | 🇸🇦 Live in Saudi Arabia
 </p>
 
 ---
@@ -35,7 +35,7 @@
 - 🎓 I'm a 4th-year Computer Science student
 - 🧪 Passionate about web development and AI integration
 - 🔍 Currently exploring advanced backend architectures
-- ✨ Ranked 6th on CodrHub (KSA)
+- ✨ Ranked 5th on CodrHub (KSA)
 
 ---
 
