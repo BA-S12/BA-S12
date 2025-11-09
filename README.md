@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bassam Alharbi 👋</h1>
 
 <p align="center">
-  🧠 Full Stack Developer | 🚀 Backend-focused | 🇸🇦 Live in Saudi Arabia
+  🧠 Full Stack Developer | 🚀 Backend-focused | 🇸🇦 Life in Saudi Arabia
 </p>
 
 ---
