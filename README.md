@@ -35,7 +35,7 @@
 - 🎓 I'm a 4th-year Computer Science student
 - 🧪 Passionate about web development and AI integration
 - 🔍 Currently exploring advanced backend architectures
-- ✨ Ranked 5th on CodrHub (KSA)
+- ✨ Ranked 4th on CodrHub (KSA)
 
 ---
 
