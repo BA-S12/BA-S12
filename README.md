@@ -34,9 +34,9 @@
 
 ### 🌟 About Me
 
-- 🎓 I'm a 4th-year Computer Science student
+- 🎓 I'm a 5th-year Computer Science student
 - 🧪 Passionate about web development and AI integration
-- 🔍 Currently exploring advanced backend architectures, AND build AI Agent
+- 🔍 Exploring advanced backend architectures, AND build AI Agent
 - ✨ Ranked 4th on CodrHub (KSA) [Protfile](https://profile.satr.codes/Omaa/public/overview)
 
 ---
